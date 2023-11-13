@@ -1,7 +1,7 @@
 ---
 title: 'Palmela Beat 2024'
 date: 2023-11-12T20:19:13Z
-draft: true
+draft: false
 featured_image: "images/raphael-schaller-zbUvPw1wUIw-unsplash.jpg"
 summary: "O Palmela Beat está de volta!"
 ---
