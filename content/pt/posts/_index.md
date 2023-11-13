@@ -1,3 +1,4 @@
 ---
 title: Notícias
+draft: false
 ---
