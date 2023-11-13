@@ -1,4 +1,4 @@
-baseURL = 'https://acidobase.org/'
+baseURL = 'https://acidobase.pages.dev/'
 languageCode = 'pt-pt'
 title = 'ÁcidoBase'
 theme = 'ananke'
