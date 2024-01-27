@@ -8,6 +8,6 @@ menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="" title="" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Fundada em 2023, a Associação Cultural "Ácido Base" emerge como uma entidade inovadora na cena cultural de Palmela. Preparámos meticulosamente o nosso evento inaugural, o "Palmela Beat", com a promessa de transformar Palmela num epicentro de música e diversão. O que nos distingue é a vasta experiência dos nossos membros na realização de eventos musicais, acumulando anos de experiência na criação de experiências envolventes. Junte-se a nós nesta jornada inaugural, onde não apenas celebramos a música, mas também destacamos a perícia e a paixão de uma equipa dedicada.
