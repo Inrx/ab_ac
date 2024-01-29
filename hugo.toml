@@ -1,0 +1,5 @@
+baseURL = ""
+languageCode = 'pt-pt'
+title = 'ÁcidoBase'
+theme= "hugo-bootstrap-theme"
+themesdir = 'node_modules/@filipecarneiro'
