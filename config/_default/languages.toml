@@ -1,0 +1,14 @@
+[pt]
+  languageName = "Portuguese"
+  languageCode = "pt-PT"
+  weight = 10
+  [pt.params]
+    languageISO = "PT"
+
+[en]
+  languageName = "English"
+  languageCode = "en-US"
+  weight = 20
+  [en.params]
+    languageISO = "EN"
+
