@@ -3,7 +3,7 @@ title: "Palmela Beat 2024"
 description: ""
 date: 2024-01-13T13:00:44+01:00
 draft: false
-images: ["raphael-schaller-zbUvPw1wUIw-unsplash.jpg"]
+images: ["/images/raphael-schaller-zbUvPw1wUIw-unsplash.jpg"]
 categories: ["Eventos", "Música"]
 tags: ["musica"]
 keywords: ["marco a partir","palmela beat"]
@@ -11,7 +11,7 @@ authors: ["AcidoBase"]
 noindex: true
 ---
 
-![Bootstrap 5 2 0 Beta](raphael-schaller-zbUvPw1wUIw-unsplash.jpg)
+![Bootstrap 5 2 0 Beta](/images/raphael-schaller-zbUvPw1wUIw-unsplash.jpg)
 { .img-fluid }
 
 
