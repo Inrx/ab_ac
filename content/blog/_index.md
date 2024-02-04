@@ -1,6 +1,6 @@
 +++
 aliases = ["posts", "blog"]
-title = "Posts"
+title = "Notícias"
 authors = ["ÁcidoBase"]
 tags = ["index"]
 +++
