@@ -1,15 +1,15 @@
 backend:
   name: github
-  repo: username/repo
+  repo: inrx/acidobase
   branch: main # Branch to update (optional; defaults to master)
-  base_url: https://example.com
+  base_url: https://acidobase.org
   auth_endpoint: /api/auth
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
+  - name: 'posts'
+    label: 'Post'
+    folder: 'content/post'
     create: true
     slug: '{{slug}}'
     editor:
