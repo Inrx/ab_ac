@@ -4,10 +4,11 @@ url = "about"
 weight = 10
 title = "Mais sobre a Associação"
 
-#[[main]]
-#identifier = "blog"
-#name = "Notícias"
-#weight = 40
+[[main]]
+identifier = "blog"
+name = "Notícias"
+url = "blog"
+weight = 40
 
 #[[main]]
 #name = "Todas as Notícias"
@@ -39,4 +40,4 @@ title = "Mais sobre a Associação"
   pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-instagram'><use href='/images/feather/feather-sprite.svg#instagram'/></svg>"
   url = "https://instagram.com/"
   weight = 20
-  title = "ÁcidoBase no Instagram"
+  title = "Segue-nos no Instagram"
