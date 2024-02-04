@@ -11,9 +11,13 @@ authors: ["AcidoBase"]
 noindex: true
 ---
 
-![Bootstrap 5 2 0 Beta](/images/raphael-schaller-zbUvPw1wUIw-unsplash.jpg)
+![PalmelaBeat2017](AJITAR-PalmelaBeat_195.jpg)
 { .img-fluid }
+<br>
+<br>
+<br>
 
+# Palmela Beat
 
 
 O Palmela Beat, uma festa de música eletrónica, celebrará, em 2024, 18 anos de história e tradição em Palmela, representando um evento emblemático para a nossa Associação. Esta festa é já reconhecida pelos jovens palmelenses, quer sejam participantes assíduos desde as suas primeiras edições ou tenham descoberto posteriormente o seu caráter único. Anualmente, Palmela é palco de uma noite dedicada à música eletrónica.
