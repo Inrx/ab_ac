@@ -1,25 +1,21 @@
 
 ---
-title: "Palmela Beat 2024"
-description: ""
-date: 2024-01-13T13:00:44+01:00
 draft: false
 images: ["AJITAR-PalmelaBeat_195.JPG"]
-categories: ["Eventos", "Música"]
-tags: ["musica"]
-keywords: ["marco a partir","palmela beat"]
-authors: ["AcidoBase"]
+authors:
+  - AcidoBase
+title: Palmela Beat 2024
+date: 2024-01-13T13:00:44+01:00
+keywords:
+  - marco a partir
+  - palmela beat
 noindex: true
+tags:
+  - musica
+categories:
+  - Eventos
+  - Música
 ---
-
-
-
-<br>
-<br>
-<br>
-
-# Palmela Beat
-
 
 O Palmela Beat, uma festa de música eletrónica, celebrará, em 2024, 18 anos de história e tradição em Palmela, representando um evento emblemático para a nossa Associação. Esta festa é já reconhecida pelos jovens palmelenses, quer sejam participantes assíduos desde as suas primeiras edições ou tenham descoberto posteriormente o seu caráter único. Anualmente, Palmela é palco de uma noite dedicada à música eletrónica.
 
