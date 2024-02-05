@@ -7,9 +7,7 @@ menu:
 expiryDate: 2023-04-31
 keywords: ["palmela beat", "palmela", "música", "techno"]
 layout: palmela-beat
-featuredVideo: "frdj1zb9sMY"
-videoId: "frdj1zb9sMY"
-featuredImage: "images/AJITAR-PalmelaBeat_195.JPG"
+featuredImage: "images/AJITAR_PalmelaBeat_195.JPG"
 ---
 
 {{< columns count=2 >}} {{< column >}}

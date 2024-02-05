@@ -6,10 +6,7 @@ menu:
     weight: 90
 ---
 
-# Contacta-nos
-Envia-nos um email para [hello@acidobase.org](mailto:hello@acidobase.org) ou preenche este formulário e responderemos prontamente.
+
+### Contacta-nos
+Envia-nos um email para [hello@acidobase.org](mailto:hello@acidobase.org) ou preenche este forumulário para entrares em contact connosco!
 {{< contact-form2 >}}
-
-
-
-

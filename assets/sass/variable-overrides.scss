@@ -1,14 +1,14 @@
 // Default variable overrides
 
 // scss-docs-start theme-color-variables
-$primary:       #d9d9d9;
-$secondary:     #c4bdc6;
-$success:       #198754;
-$info:          #0dcaf0;
-$warning:       #ffc107;
-$danger:        #dc3545;
-$light:         #f8f9fa;
-$dark:          #242129;
+$primary: #d9d9d9;
+$secondary: #c4bdc6;
+$success: #198754;
+$info: #0dcaf0;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: #f8f9fa;
+$dark: #242129;
 // scss-docs-end theme-color-variables
 
 // Your variable overrides
@@ -22,4 +22,13 @@ $font-family-base: 'Raleway', sans-serif;
 
 $h1-font-size: 5rem;
 
-$min-desktop:1000px
+$min-desktop: 1000px;
+
+$card-border-color: null;
+$card-box-shadow: $dark;
+
+.form-control:focus {
+    border-color: #28a745 !important;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25) !important;
+    color: #28a745 !important;
+}
