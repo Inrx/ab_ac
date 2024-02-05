@@ -18,7 +18,7 @@ enableRobotsTXT = true
 enableGitInfo = true
 enableEmoji = true
 #sectionPagesMenu = "main"
-#googleAnalytics = "UA-1511XXXX-X"
+googleAnalytics = "G-HQPH6MBHQ0"
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
