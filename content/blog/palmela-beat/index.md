@@ -1,9 +1,10 @@
+
 ---
 title: "Palmela Beat 2024"
 description: ""
 date: 2024-01-13T13:00:44+01:00
 draft: false
-images: ["/images/raphael-schaller-zbUvPw1wUIw-unsplash.jpg"]
+images: ["AJITAR-PalmelaBeat_195.JPG"]
 categories: ["Eventos", "Música"]
 tags: ["musica"]
 keywords: ["marco a partir","palmela beat"]
@@ -11,8 +12,8 @@ authors: ["AcidoBase"]
 noindex: true
 ---
 
-![PalmelaBeat2017](AJITAR-PalmelaBeat_195.jpg)
-{ .img-fluid }
+
+
 <br>
 <br>
 <br>
@@ -22,12 +23,21 @@ noindex: true
 
 O Palmela Beat, uma festa de música eletrónica, celebrará, em 2024, 18 anos de história e tradição em Palmela, representando um evento emblemático para a nossa Associação. Esta festa é já reconhecida pelos jovens palmelenses, quer sejam participantes assíduos desde as suas primeiras edições ou tenham descoberto posteriormente o seu caráter único. Anualmente, Palmela é palco de uma noite dedicada à música eletrónica.
 
+<br>
+
+![PalmelaBeat2017](AJITAR-PalmelaBeat_195.JPG)
+{ .img-fluid }
+
+<br>
+<br>
+
 Após o êxito da sua estreia em 2006, o Palmela Beat consolidou-se em 2007, mantendo-se fiel ao formato original durante o evento "Março a Partir", beneficiando ainda de apoios financeiros que possibilitaram a presença de artistas internacionais. Destacamos nomes como Hosemeister (da Alemanha) em 2007, The Toxic Avenger (de França) em 2008, Fukkk Offf (Alemanha) em 2009 e, por último, os Vicarious Bliss (ingleses) em 2010. Estes artistas de renome contribuíram para conferir ao Palmela Beat uma dimensão respeitável, com algumas edições a registarem cerca de 1000 entradas.
 
 No ano de 2024, ambicionamos o regresso do Palmela Beat a Palmela, integrando novamente o “Março a Partir”, mas desta vez sob a égide da Ácido Base.
 Esta nova edição do Palmela Beat será revitalizada e apresentará duas fases distintas. Durante a tarde, o evento será aberto ao público em geral, decorrendo no auditório do Parque Venâncio Ribeiro da Costa - Anfiteatro. Nesta fase, serão destacados DJs em início de carreira, que explorarão o universo da música eletrónica mais leve, um estilo acessível a um vasto espectro da população. Além disso, estabeleceremos parcerias com outras associações para a promoção da gastronomia e entretenimento artístico.
 
 Já durante a noite, a festa deslocar-se-á para o espaço VILLA, com acesso restrito entre as 22h e as 4h do dia seguinte. Esta segunda fase promete uma experiência mais íntima e intensa, proporcionando aos participantes um ambiente exclusivo e inesquecível.
+
 
 Acreditamos que a renovação do Palmela Beat em 2024 não só preservará a tradição estabelecida ao longo dos anos, mas também contribuirá para a vitalidade cultural e social de Palmela. Solicitamos, assim, o vosso valioso apoio para assegurar o sucesso deste evento, que tem potencial para impactar positivamente a comunidade local e atrair um público diversificado. Estamos confiantes de que, com a vossa colaboração, o Palmela Beat poderá vir a ser uma referência no panorama da música eletrónica em Portugal.
 

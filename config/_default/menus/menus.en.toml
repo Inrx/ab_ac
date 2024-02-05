@@ -8,26 +8,26 @@ title = "Know More"
 [[main]]
 identifier = "blog"
 name = "News"
-url = "post"
+url = "blog"
 weight = 40
 
-[[main]]
-name = "Todas as Notícias"
-url = "post"
-weight = 100
-parent = "blog"
-
-[[main]]
-name = "Events"
-url = "tags/events"
-weight = 20
-parent = "blog"
-
-[[main]]
-name = "Music"
-url = "tags/musica"
-weight = 30
-parent = "blog"
+#[[main]]
+#name = "Todas as Notícias"
+#url = "post"
+#weight = 100
+#parent = "blog"
+#
+#[[main]]
+#name = "Events"
+#url = "tags/events"
+#weight = 20
+#parent = "blog"
+#
+#[[main]]
+#name = "Music"
+#url = "tags/musica"
+#weight = 30
+#parent = "blog"
 
 [[social]]
   name = "Instagram"

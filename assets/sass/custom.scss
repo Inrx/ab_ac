@@ -6,7 +6,7 @@ html {
     padding: 4rem 2rem;
     margin-bottom: 2rem;
     background-color: var(--bs-dark);
-    border-radius: .3rem;  
+    border-radius: .3rem;
 }
 
 %callout-shared {
@@ -56,7 +56,10 @@ blockquote {
     height: 4em;
 }
 
-a /*.feather*/ {
+a
+
+/*.feather*/
+    {
     $twitter-blue: #55acee;
     $github-black: #000;
 
@@ -86,3 +89,25 @@ small.acido-base {
 body {
     padding-top: 45px;
 }
+
+.form-control-lg {
+    background-color: #2f2a36;
+    /* Or any desired dark color */
+    color: #ffffffe0;
+    /* Ensure text is white */
+    border-color: #ffffff27;
+    min-height: 3rem;
+    padding: .5rem;
+    outline-color: purple;
+    outline-width: 10px;
+    box-shadow: 0 0 0 3.2rem rgba(27, 30, 28, 0.422);
+}
+
+//.form-control-lg:focus {
+//    border-color: 4rem solid #5516a7;
+//}
+
+//.form-control-lg:active {
+//    border-color: 4rem solid #5516a7;
+//}
+

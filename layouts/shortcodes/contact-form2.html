@@ -1,34 +1,25 @@
-<div class="mb-3 pt-0">
-    <form
+<div class="col-sm-6 justify-text-center">
+    <form id="contactForm" class="row mx-auto"
         action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfggKAgB2FJQL9Hr8YGHDhTquEMJSDGhbz8dtTmz9cJHFUUhA/formResponse"
-        method="post">
-        <div class="mb-3">
-            <div class="mb-1">
-                <label>Nome*</label>
-            </div>
-            <input class="w-25" type="text" placeholder="O teu nome" name="entry.914754252" required>
-        </div>
+        method="post" target="hidden_iframe" onsubmit="submitted = true;">
 
-        <div class="mb-3">
-            <div class="mb-1">
-                <label>Email*</label>
-            </div>
-            <input class="w-25" type="email" placeholder="nome@exemplo.org" name="entry.745869325" required>
-        </div>
-
-        <div class="mb-3">
-            <div class="mb-1">
-                <label>Assunto</label>
-            </div>
-            <input class="w-25" type="text" placeholder="O teu assunto" name="entry.1057309833">
-        </div>
-
-        <div>
-            <div class="mb-1">
-                <label>Mensagem*</label>
-            </div>
-            <textarea class="w-25" rows="5" placeholder="A tua mensagem" name="entry.1468335653" required></textarea>
-        </div>
-        <button class="btn btn-light mt-3" type="submit">Enviar</button>
+        <input class="form-control-lg mb-4  shadow rounded-0" type="text" placeholder="O teu nome"
+            name="entry.914754252" required style="height: 10rem;">
+        <input class="form-control-lg mb-4  shadow rounded-0" type="email" placeholder="nome@exemplo.org"
+            name="entry.745869325" required>
+        <input class="form-control-lg mb-4 shadow rounded-0" type="text" placeholder="O teu assunto"
+            name="entry.1057309833">
+        <textarea class="form-control-lg  mb-4  shadow rounded-0" rows="5" placeholder="A tua mensagem"
+            name="entry.1468335653" required></textarea>
+        <button class="btn btn-light" type="submit">Enviar</button>
     </form>
 </div>
+
+<script>
+    form.addEventListener('submit', function (event) {
+        event.preventDefault(); // Prevent default form submission
+        // Perform any necessary form validation here
+        // If submission is successful, redirect to thank you page
+        window.location.href = '/thankyou';
+    });
+</script>

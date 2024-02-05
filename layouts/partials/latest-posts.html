@@ -1,9 +1,9 @@
 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
 
-    {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "post" ) }}
+    {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "blog" ) }}
     <div class="col">
 
-        <div class="card h-100">
+        <div class="card h-100 border-dark shadow">
             <div class="card-body">
                 <h4 class="card-title">
                     <a class="stretched-link text-primary text-decoration-none" href="{{ .Permalink }}">
@@ -24,7 +24,7 @@
                 </p>
             </div>
             {{ if isset .Params "images" }}
-            {{ with resources.Get (index .Params.Images 0) }}
+            {{ with .Resources.Get (index .Params.Images 0) }}
             {{ $image := .Fill "600x300 Center webp" }}
             <img class="card-img-bottom" src="{{ $image.RelPermalink }}" loading="lazy" alt="featured image {{.Title }}" />
             {{ end }}
