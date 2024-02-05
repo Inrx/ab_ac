@@ -3,9 +3,9 @@
     Favicon for the modern web 🤟
     https://realfavicongenerator.net/svg-favicon/
 -->
-{{ if (os.FileExists "images/favicon.svg") -}}
-<link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+{{ if (os.FileExists "static/favicon.svg") -}}
+    <link rel="icon" type="image/svg+xml" href="{{ `favicon.svg` | absURL }}">
 {{ end -}}
-{{ if (os.FileExists "images/favicon.png") -}}
-<link rel="icon" type="image/png" href="/assets/images/favicon.png">
+{{ if (os.FileExists "static/favicon.png") -}}
+    <link rel="icon" type="image/png" href="{{ `favicon.png` | absURL }}">
 {{ end -}}

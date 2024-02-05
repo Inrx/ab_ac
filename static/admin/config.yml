@@ -4,19 +4,24 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
   base_url: https://www.acidobase.org 
   auth_endpoint: /api/auth
-media_folder: /assets/images
+media_folder: 'assets/images'
 public_folder: /images
 collections:
-  - name: 'post'
-    label: 'Posts'
-    folder: 'content/post'
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'content/blog/'
     create: true
-    slug: '{{slug}}'
+    path: '{{slug}}/index'
+    media_library:
+      folder_support: true
+    media_folder: ''
+    public_folder: ''
     extension: 'md'
+    summary: "{{title | upper}} - {{date | date('yyyy-MM-dd')}} - {{body | truncate(20, '***')}}"
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string', required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Keywords', name: 'keywords', widget: 'list'}
-      - { label: 'Featured Images', name: 'images', widget: 'list'}
+      - { label: 'Featured Images', name: 'images', widget: 'image', required: false}

@@ -21,11 +21,24 @@ alertText = "Introducing this new service! <a class=\"alert-link stretched-link\
 
 # Pre-footer
 footerAbout = true
-footerAboutTitle = "Few Words About Us"
-footerAboutText = "We protect your website so you can provide a safe environment to build trust and improve the user experience of your visitors.<br/><br/>Salvus Site is the partner that you can rely on for preventive and reactive cybersecurity."
+footerAboutTitle = "ÁcidoBase"
+footerAboutText = ""
 
 [options]
   bootStrapJs = true
-  breadCrumb = true
-  listCategoryFilter = true
-  listTagFilter = true
+  breadCrumb = false
+  listCategoryFilter = false
+  listTagFilter = false
+
+sticky_header = true
+
+[organization]
+  name = "ÁcidoBase"
+  legalName = "ÁcidoBase Associação Cultural"
+  url = "acidobase.org"
+  address = {locality="Palmela", country = "Portugal"}
+
+[webSite]
+  name = "ÁcidoBase"
+  copyrightHolder = {name = "ÁcidoBase"}
+  url = "www.acidobase.org"
