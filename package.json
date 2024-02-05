@@ -1,0 +1,20 @@
+{
+  "name": "quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@filipecarneiro/hugo-bootstrap-theme": "^1.0.35",
+    "hugo-installer": "^4.0.1",
+    "wrangler": "^3.25.0"
+  },
+  "dependencies": {
+    "@staticcms/core": "^4.1.0"
+  }
+}
