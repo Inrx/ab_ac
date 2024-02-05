@@ -26,9 +26,3 @@ $min-desktop: 1000px;
 
 $card-border-color: null;
 $card-box-shadow: $dark;
-
-.form-control:focus {
-    border-color: #28a745 !important;
-    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25) !important;
-    color: #28a745 !important;
-}
