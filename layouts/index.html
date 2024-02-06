@@ -26,7 +26,11 @@
 
 
 <section class="section container my-3">
+  {{ if eq .Site.LanguageCode "pt-PT"}}
   <h2 class="text-secondary text-center my-5">Notícias</h2>
+  {{ else }}
+  <h2 class="text-secondary text-center my-5">Our News</h2>
+  {{ end }}
   {{ partial "latest-posts" . }}
 </section>
 

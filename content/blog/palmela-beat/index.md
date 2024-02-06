@@ -1,4 +1,3 @@
-
 ---
 draft: false
 images: ["AJITAR-PalmelaBeat_195.JPG"]
