@@ -14,14 +14,14 @@ featuredImage: "images/AJITAR_PalmelaBeat_195.JPG"
 
 ### By Day
 ---
-##### A Anunciar
-##### [Selecta Alice](https://soundcloud.com/selecta-alice)
 ##### [Alph](https://www.mixcloud.com/ruipedroalferespedro/)
+##### [Selecta Alice](https://soundcloud.com/selecta-alice)
+##### A Anunciar
 <br>
 
 ### @
 
-[Anfiteatro do Parque Venâncio Ribeiro Costa](https://maps.app.goo.gl/dwMcLqkhZEHuAcg16)
+[Anfiteatro do Parque Venâncio Ribeiro da Costa](https://maps.app.goo.gl/dwMcLqkhZEHuAcg16)
 
 {{< /column >}} {{< column >}}
 ### By Night
