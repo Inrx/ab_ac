@@ -1,49 +1,44 @@
 
 [[main]]
-name = "Sobre"
+name = "About Us"
 url = "about"
 weight = 20
-title = "Mais sobre a Associação"
+title = "Know More"
 
 [[main]]
 identifier = "blog"
-name = "Blog"
+name = "News"
+url = "en/blog"
 weight = 40
 
-[[main]]
-name = "Todas as Notícias"
-url = "post"
-weight = 100
-parent = "blog"
-
-[[main]]
-name = "Cidadania"
-url = "tags/cidadania"
-weight = 20
-parent = "blog"
-
-[[main]]
-name = "Música"
-url = "tags/musica"
-weight = 30
-parent = "blog"
-
-[[main]]
-identifier = "docs"
-name = "Documentos"
-url = "page"
-weight = 50
+#[[main]]
+#name = "Todas as Notícias"
+#url = "post"
+#weight = 100
+#parent = "blog"
+#
+#[[main]]
+#name = "Events"
+#url = "tags/events"
+#weight = 20
+#parent = "blog"
+#
+#[[main]]
+#name = "Music"
+#url = "tags/musica"
+#weight = 30
+#parent = "blog"
 
 [[social]]
-  name = "GitHub"
-  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='/hugo-bootstrap-theme/images/feather/feather-sprite.svg#github'/></svg>"
-  url = "https://github.com/filipecarneiro/hugo-bootstrap-theme/"
-  weight = 10
-  title = "Veja o projeto no GitHub"
-
-[[social]]
-  name = "Twitter"
-  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-twitter'><use href='/hugo-bootstrap-theme/images/feather/feather-sprite.svg#twitter'/></svg>"
-  url = "https://twitter.com/jfilipecarneiro/"
+  name = "Instagram"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-instagram'><use href='/images/feather/feather-sprite.svg#instagram'/></svg>"
+  url = "https://www.instagram.com/acidobase.ac"
   weight = 20
-  title = "Contacto no Twitter"
+  title = "Follow us on Instragram"
+
+[[social]]
+  name = "Facebook"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-facebook'><use href='/images/feather/feather-sprite.svg#facebook'/></svg>"
+  url = "https://www.facebook.com/acidobase.pH"
+  weight = 30
+  title = "Follow us on Facebook"

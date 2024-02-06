@@ -14,21 +14,21 @@
             radial-gradient(ellipse at 100% 0%, rgba(199,30,35,0.79) 0%,  27.08%, rgba(36,33,41,0) 68.75%) 0% 0% / 100% 100% no-repeat no-repeat, /* Red Background */
             radial-gradient(ellipse at 0% 0%, rgba(107,16,204,0.79) 0%,  27.08%, rgba(36,33,41,0) 68.75%) 0% 0% / 100% 100% no-repeat no-repeat; /* Purple Background */
         }
+}
 
-    .btn-bd-primary {
-        --bs-btn-font-weight: 600;
-        --bs-btn-color: var(--bs-black);
-        --bs-btn-bg: var(--bd-violet);
-        --bs-btn-border-color: var(--bd-violet);
-        --bs-btn-border-radius: .5rem;
-        --bs-btn-hover-color: var(--bsblack);
-        --bs-btn-hover-bg: #6528e0;
-        --bs-btn-hover-border-color: #6528e0;
-        --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
-        --bs-btn-active-color: var(--bs-btn-hover-color);
-        --bs-btn-active-bg: #5a23c8;
-        --bs-btn-active-border-color: #5a23c8;
-    }
+.btn-bd-primary {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color:  #ffffff9e;
+    --bs-btn-bg: rgba(107,16,204,0.79);
+    --bs-btn-border-color: #f6f5f997;
+    --bs-btn-border-radius: .5rem;
+    --bs-btn-hover-color: var(--bsblack);
+    --bs-btn-hover-bg: #6528e0;
+    --bs-btn-hover-border-color: #6528e0;
+    --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #5a23c8;
+    --bs-btn-active-border-color: #5a23c8;
 }
 
 .navbar {
@@ -41,6 +41,7 @@
     background-image: linear-gradient(to right, rgba(106, 17, 203, 0.9), rgba(198, 30, 35, 0.9));
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15), inset 0 -1px 0 rgba(0, 0, 0, 0.15);
 }
+
 
 .text-violet {
     color: #6528e0;
@@ -62,4 +63,53 @@
     &:hover {
         transform: rotate(-3deg) scale(1.2);
     }
+}
+
+// Support for columns in Markdown
+.columns {
+    display: grid;
+    row-gap: 32px;
+    column-gap: 3%;
+    grid-template-columns: repeat(12, 1fr);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.columns-2 {
+    > * {
+        grid-column: span 12;
+        @media (min-width: 800px) {
+            grid-column: span 6;
+        }
+    }
+}
+
+.columns-3 {
+    > * {
+        grid-column: span 12;
+        @media (min-width: 600px) {
+            grid-column: span 6;
+        }
+        @media (min-width: $min-desktop) {
+            grid-column: span 4;
+        }
+    }
+}
+
+.columns-4 {
+    > * {
+        grid-column: span 12;
+        @media (min-width: 600px) {
+            grid-column: span 6;
+        }
+        @media (min-width: $min-desktop) {
+            grid-column: span 3;
+        }
+    }
+}
+
+.form-control:focus {
+    border-color: #28a745 !important;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25) !important;
+    color: #28a745 !important;
 }

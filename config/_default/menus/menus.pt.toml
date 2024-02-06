@@ -1,54 +1,50 @@
 [[main]]
 name = "Sobre"
 url = "about"
-weight = 20
+weight = 10
 title = "Mais sobre a Associação"
 
 [[main]]
 identifier = "blog"
-name = "Blog"
+name = "Notícias"
+url = "blog"
 weight = 40
 
-[[main]]
-name = "Todas as Notícias"
-url = "post"
-weight = 100
-parent = "blog"
+#[[main]]
+#name = "Todas as Notícias"
+#url = "post"
+#weight = 100
+#parent = "blog"
 
-[[main]]
-name = "Cidadania"
-url = "tags/cidadania"
-weight = 20
-parent = "blog"
+#[[main]]
+#name = "Cidadania"
+#url = "tags/cidadania"
+#weight = 20
+#parent = "blog"
+#
+#[[main]]
+#name = "Música"
+#url = "tags/musica"
+#weight = 30
+#parent = "blog"
 
-[[main]]
-name = "Música"
-url = "tags/musica"
-weight = 30
-parent = "blog"
+#[[main]]
+#identifier = "docs"
+#name = "Documentos"
+#url = "page"
+#weight = 50
 
-[[main]]
-identifier = "docs"
-name = "Documentos"
-url = "page"
-weight = 50
-
-[[main]]
-identifier = "docs"
-name = "Documentos"
-url = "page"
-weight = 50
 
 [[social]]
-  name = "GitHub"
-  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='/hugo-bootstrap-theme/images/feather/feather-sprite.svg#github'/></svg>"
-  url = "https://github.com/filipecarneiro/hugo-bootstrap-theme/"
-  weight = 10
-  title = "Veja o projeto no GitHub"
-
-[[social]]
-  name = "Twitter"
-  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-twitter'><use href='/hugo-bootstrap-theme/images/feather/feather-sprite.svg#twitter'/></svg>"
-  url = "https://twitter.com/jfilipecarneiro/"
+  name = "Instagram"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-instagram'><use href='/images/feather/feather-sprite.svg#instagram'/></svg>"
+  url = "https://www.instagram.com/acidobase.ac/"
   weight = 20
-  title = "Contacto no Twitter"
+  title = "Segue-nos no Instagram"
+
+[[social]]
+  name = "Facebook"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-facebook'><use href='/images/feather/feather-sprite.svg#facebook'/></svg>"
+  url = "https://www.instagram.com/acidobase.ac/"
+  weight = 30
+  title = "Segue-nos no Facebook"
