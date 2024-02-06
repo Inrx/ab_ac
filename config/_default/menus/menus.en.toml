@@ -32,6 +32,6 @@ weight = 40
 [[social]]
   name = "Instagram"
   pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-instagram'><use href='/images/feather/feather-sprite.svg#instagram'/></svg>"
-  url = "https://twitter.com/jfilipecarneiro/"
+  url = "https://www.instagram.com/acidobase.ac//"
   weight = 20
-  title = "See us on Instragram"
+  title = "Follow us on Instragram"
