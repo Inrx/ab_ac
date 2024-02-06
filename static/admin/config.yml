@@ -6,12 +6,14 @@ backend:
   auth_endpoint: /api/auth
 media_folder: 'assets/images'
 public_folder: /images
+editor:
+  preview: false
 collections:
   - name: 'blog'
     label: 'Blog'
     folder: 'content/blog/'
     create: true
-    path: '{{slug}}/index'
+    path: '{{slug}}/index.{{lang}}'
     media_library:
       folder_support: true
     media_folder: ''
@@ -25,3 +27,4 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Keywords', name: 'keywords', widget: 'list'}
       - { label: 'Featured Images', name: 'images', widget: 'image', required: false}
+      - { label: 'Lang', name: 'lang', widget: 'string', required: true}
