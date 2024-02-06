@@ -26,7 +26,7 @@
             {{ if isset .Params "images" }}
             {{ with .Resources.Get (index .Params.Images 0) }}
             {{ $image := .Fill "600x300 Center webp" }}
-            <img class="card-img-bottom" src="{{ $image.RelPermalink }}" loading="lazy" alt="featured image {{.Title }}" />
+            <img class="card-img-bottom" src="{{ $image.RelPermalink }}" loading="lazy" alt="featured image {{.Title }}" width="600px" height="auto"/>
             {{ end }}
             {{ end }}
             <div class="card-footer">
