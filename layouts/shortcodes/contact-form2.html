@@ -3,15 +3,15 @@
         action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfggKAgB2FJQL9Hr8YGHDhTquEMJSDGhbz8dtTmz9cJHFUUhA/formResponse"
         method="post" target="hidden_iframe" onsubmit="submitted = true;">
 
-        <input class="form-control-lg mb-4  shadow rounded-0" type="text" placeholder="O teu nome"
+        <input class="form-control-lg mb-4  shadow rounded-0" type="text" placeholder='{{ T "yourName"}}'
             name="entry.914754252" required style="height: 10rem;">
-        <input class="form-control-lg mb-4  shadow rounded-0" type="email" placeholder="nome@exemplo.org"
+        <input class="form-control-lg mb-4  shadow rounded-0" type="email" placeholder='{{ T "emailAddress"}}'
             name="entry.745869325" required>
-        <input class="form-control-lg mb-4 shadow rounded-0" type="text" placeholder="O teu assunto"
+        <input class="form-control-lg mb-4 shadow rounded-0" type="text" placeholder='{{ T "subject"}}'
             name="entry.1057309833">
-        <textarea class="form-control-lg  mb-4  shadow rounded-0" rows="5" placeholder="A tua mensagem"
+        <textarea class="form-control-lg  mb-4  shadow rounded-0" rows="5" placeholder='{{ T "message"}}'
             name="entry.1468335653" required></textarea>
-        <button class="btn btn-light" type="submit">Enviar</button>
+        <button class="btn btn-light" type="submit">{{ T "send"}}</button>
     </form>
 </div>
 
