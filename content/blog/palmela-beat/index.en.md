@@ -20,8 +20,11 @@ categories:
 
 <br>
 
-![PalmelaBeat2017](AJITAR-PalmelaBeat_195.JPG)
-{ .img-fluid }
+{{< image
+src="AJITAR-PalmelaBeat_195.JPG"
+alt="Palmela Beat 2017" >}}
+
+<br>
 
 <br>
 <br>
