@@ -10,20 +10,25 @@ layout: palmela-beat
 featuredImage: "images/AJITAR_PalmelaBeat_195.JPG"
 ---
 
+
 {{< columns count=2 >}} {{< column >}}
+
 
 ### By Day
 ---
 ##### [Alph](https://www.mixcloud.com/ruipedroalferespedro/)
 ##### [Selecta Alice](https://soundcloud.com/selecta-alice)
 ##### A Anunciar
+
 <br>
 
 ### @
 
 [Anfiteatro do Parque Venâncio Ribeiro da Costa](https://maps.app.goo.gl/dwMcLqkhZEHuAcg16)
 
+
 {{< /column >}} {{< column >}}
+
 ### By Night
 ---
 ##### [MaryCroft](https://soundcloud.com/marycroft-macedo)
@@ -34,6 +39,7 @@ featuredImage: "images/AJITAR_PalmelaBeat_195.JPG"
 ### @ 
 
 [VILLA Parque](https://maps.app.goo.gl/nK2AqJphFurYeuYH6)
+
 {{< /column >}} {{< /columns >}}
 
 
