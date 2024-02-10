@@ -48,8 +48,8 @@ other = "{{ .Count }} words"
 [pageTitle]
 other = "{{ .Name }} page"
 
-[buyTickets]
-other = "Buy your tickets now!"
+[tickets]
+other = "Tickets"
 
 [email]
 other = "name@example.org"
@@ -57,3 +57,5 @@ other = "name@example.org"
 [subject]
 other = "Your subject here"
 
+[news]
+other = "News"

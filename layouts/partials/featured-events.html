@@ -1,0 +1,28 @@
+
+
+    {{ range .Site.Taxonomies.tags.events }}
+    <div class="row shadow-lg py-5">
+        <div class="col-md">
+            <h1 class="palmela-beat">{{ .Title | upper}}</h4>
+        </div>
+        <div class="col-lg">
+            <div class="row py-2">
+                <h3>{{ .Params.eventDate | }} | {{ .Params.Schedule}} | {{ .Params.Location }}</h3>
+            </div>
+            <div class="row-lg">
+                <p>{{ .Description }}</p>
+            </div>
+            <div>
+                {{ if isset .Params "images" }}
+                {{ .Title }}
+                {{ with .Resources.Get (index .Params.Images 0) }}
+                <p>teste</p>
+                {{ $image := .Fill }}
+                <img src="{{ $image.RelPermalink }}" loading="lazy" class="img-thumbnail"
+                    alt="featured image {{.Title }}" width="200px" height="auto">
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    {{ end }}

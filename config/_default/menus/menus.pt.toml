@@ -1,14 +1,20 @@
 [[main]]
-name = "Sobre"
+name = "A Ácido Base"
 url = "about"
 weight = 10
 title = "Mais sobre a Associação"
 
 [[main]]
-identifier = "blog"
-name = "Notícias"
-url = "blog"
-weight = 40
+identifier = "tickets"
+name = "Bilhetes"
+url = "tickets"
+weight = 20
+
+#[[main]]
+#identifier = "blog"
+#name = "Notícias"
+#url = "blog"
+#weight = 40
 
 #[[main]]
 #name = "Todas as Notícias"

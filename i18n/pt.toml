@@ -40,11 +40,14 @@ other = "Abaixo você encontrará as páginas que utilizam o termo de taxonomia 
 [pageTitle]
 other = "{{ .Name }} página"
 
-[buyTickets]
-other = "Compra já os teus bilhetes!"
+[tickets]
+other = "Bilhetes"
 
 [email]
 other = "nome@exemplo.org"
 
 [subject]
 other = "O teu assunto aqui"
+
+[news]
+other= "Notícias"

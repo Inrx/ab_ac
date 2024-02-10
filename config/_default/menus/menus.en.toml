@@ -6,10 +6,16 @@ weight = 20
 title = "Know More"
 
 [[main]]
-identifier = "blog"
-name = "News"
-url = "en/blog"
+identifier = "tickets"
+name = "Tickets"
+url = "en/tickets"
 weight = 40
+
+#[[main]]
+#identifier = "blog"
+#name = "News"
+#url = "en/blog"
+#weight = 40
 
 #[[main]]
 #name = "Todas as Notícias"

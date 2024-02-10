@@ -4,10 +4,11 @@ draft: false
 menu:
   main:
     weight: 20
-expiryDate: 2023-04-31
+expiryDate: 2024-04-31
 keywords: ["palmela beat", "palmela", "música", "techno"]
 layout: palmela-beat
-featuredImage: "images/AJITAR_PalmelaBeat_195.JPG"
+images: ["AJITAR_PalmelaBeat_195.JPG"]
+tags: ["events"]
 ---
 
 {{< columns count=2 >}} {{< column >}}

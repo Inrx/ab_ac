@@ -9,6 +9,7 @@ description = "Associação Cultural"
 images = ['images/logo_white.svg','images/logo.svg']
 mainMenuLogo = "images/logo.svg"
 altLogo = "images/logo_white.svg"
+slogan = "ÁcidoBase, onde a química rítmica encontra a euforia da dança. "
 
 # For favicons
 ## Chrome Browser
