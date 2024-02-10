@@ -11,11 +11,9 @@ This project is used by the following companies:
 
 ## Lessons Learned
 
-This was the first website I created, ever. It was, the first time I deployed a website on Cloudflare Pages, thus there were a lot of lessons learned along the process. 
+I want to share my experience of creating my first website and deploying it on Cloudflare Pages. Throughout the process, I learned many valuable lessons and had to do some research as there was a lot of scattered information between Cloudflare and Hugo's Community support websites.
 
-Several of these lessons needed some research, as there is a lot of informations scattered between Cloudflare and Hugo's Community support websites. 
-
-I've created a [Wiki](https://github.com/Inrx/acidobase/wiki) that tried to bring all of that knowledge together in one place. 
+To make things easier for others, I decided to create a [Wiki](https://github.com/Inrx/acidobase/wiki) that compiles all of this knowledge in one place.
 
 ## Acknowledgements
 
