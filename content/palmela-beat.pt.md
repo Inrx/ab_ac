@@ -7,12 +7,15 @@ menu:
 expiryDate: 2024-04-31
 keywords: ["palmela beat", "palmela", "música", "techno"]
 layout: palmela-beat
-images: ["images/AJITAR_PalmelaBeat_195.JPG"]
+images: 
+  - "/images/square-AJITAR-PalmelaBeat_195.JPG"
+  - "/images/square-AJITAR-PalmelaBeat_195.JPG"
+  - "/images/square-AJITAR-PalmelaBeat_195.JPG"
+  - "/images/square-AJITAR-PalmelaBeat_195.JPG"
 tags: ["events"]
-location: "VILLA Parque"
-eventDate: 2024-03-23
-schedule: "16h till Late"
-featuredImage: "images/AJITAR_PalmelaBeat_195.JPG"
+location: "Parque Venâncio Ribeiro da Costa"
+eventDate: "23 Mar 2024"
+schedule: "16h - Late"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing elit pellentesque habitant morbi tristique senectus et."
 ---
 
@@ -30,9 +33,9 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 @ [Parque Venâncio Ribeiro da Costa](https://maps.app.goo.gl/dwMcLqkhZEHuAcg16)
 
 ---
-##### [Alph](https://www.mixcloud.com/ruipedroalferespedro/)
-##### [Selecta Alice](https://soundcloud.com/selecta-alice)
 ##### A Anunciar
+##### A Anunciar
+##### [Alph](https://www.mixcloud.com/ruipedroalferespedro/)
 
 ---
 
@@ -48,9 +51,9 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 @ [VILLA Parque](https://maps.app.goo.gl/nK2AqJphFurYeuYH6)
 
 ---
-##### [MaryCroft](https://soundcloud.com/marycroft-macedo)
-##### [Carajana](https://soundcloud.com/cajaranamusic)
 ##### [DeimOn](https://soundcloud.com/dj-deimon)
+##### [Carajana](https://soundcloud.com/cajaranamusic)
+##### [MaryCroft](https://soundcloud.com/marycroft-macedo)
 
 ---
 
