@@ -3,7 +3,7 @@ title: "Palmela Beat"
 draft: false
 menu:
   main:
-    weight: 20
+    weight: 30
 expiryDate: 2024-04-31
 keywords: ["palmela beat", "palmela", "música", "techno"]
 layout: palmela-beat
