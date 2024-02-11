@@ -1,3 +1,4 @@
+
 ---
 draft: false
 images: ["AJITAR-PalmelaBeat_195.JPG"]
@@ -20,10 +21,10 @@ O Palmela Beat, uma festa de música eletrónica, celebrará, em 2024, 18 anos d
 
 <br>
 
-![PalmelaBeat2017](AJITAR-PalmelaBeat_195.JPG)
-{ .img-fluid }
+{{< image
+src="AJITAR-PalmelaBeat_195.JPG"
+alt="Palmela Beat 2017" >}}
 
-<br>
 <br>
 
 Após o êxito da sua estreia em 2006, o Palmela Beat consolidou-se em 2007, mantendo-se fiel ao formato original durante o evento "Março a Partir", beneficiando ainda de apoios financeiros que possibilitaram a presença de artistas internacionais. Destacamos nomes como Hosemeister (da Alemanha) em 2007, The Toxic Avenger (de França) em 2008, Fukkk Offf (Alemanha) em 2009 e, por último, os Vicarious Bliss (ingleses) em 2010. Estes artistas de renome contribuíram para conferir ao Palmela Beat uma dimensão respeitável, com algumas edições a registarem cerca de 1000 entradas.
