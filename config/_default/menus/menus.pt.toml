@@ -4,41 +4,11 @@ url = "about"
 weight = 10
 title = "Mais sobre a Associação"
 
-[[main]]
-identifier = "tickets"
-name = "Bilhetes"
-url = "tickets"
-weight = 20
-
 #[[main]]
 #identifier = "blog"
 #name = "Notícias"
 #url = "blog"
 #weight = 40
-
-#[[main]]
-#name = "Todas as Notícias"
-#url = "post"
-#weight = 100
-#parent = "blog"
-
-#[[main]]
-#name = "Cidadania"
-#url = "tags/cidadania"
-#weight = 20
-#parent = "blog"
-#
-#[[main]]
-#name = "Música"
-#url = "tags/musica"
-#weight = 30
-#parent = "blog"
-
-#[[main]]
-#identifier = "docs"
-#name = "Documentos"
-#url = "page"
-#weight = 50
 
 
 [[social]]

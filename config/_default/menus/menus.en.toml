@@ -5,36 +5,6 @@ url = "about"
 weight = 20
 title = "Know More"
 
-[[main]]
-identifier = "tickets"
-name = "Tickets"
-url = "en/tickets"
-weight = 40
-
-#[[main]]
-#identifier = "blog"
-#name = "News"
-#url = "en/blog"
-#weight = 40
-
-#[[main]]
-#name = "Todas as Notícias"
-#url = "post"
-#weight = 100
-#parent = "blog"
-#
-#[[main]]
-#name = "Events"
-#url = "tags/events"
-#weight = 20
-#parent = "blog"
-#
-#[[main]]
-#name = "Music"
-#url = "tags/musica"
-#weight = 30
-#parent = "blog"
-
 [[social]]
   name = "Instagram"
   pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-instagram'><use href='/images/feather/feather-sprite.svg#instagram'/></svg>"
@@ -43,6 +13,13 @@ weight = 40
   title = "Follow us on Instragram"
 
 [[social]]
+  name = "Facebook"
+  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-facebook'><use href='/images/feather/feather-sprite.svg#facebook'/></svg>"
+  url = "https://www.facebook.com/acidobase.pH"
+  weight = 30
+  title = "Follow us on Facebook"
+
+[[footer]]
   name = "Facebook"
   pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-facebook'><use href='/images/feather/feather-sprite.svg#facebook'/></svg>"
   url = "https://www.facebook.com/acidobase.pH"
