@@ -1,6 +1,6 @@
 {{ range .Site.Taxonomies.tags.events }}
-<div class="container-fluid">
-    <div class="row row align-items-left shadow-lg py-5">
+<div class="container-fluid px-0">
+    <div class="row row align-items-left shadow-lg py-4 ">
         <div class="col-md-6 align-self-center">
             <h1 class="palmela-beat">{{ .Title | upper}}</h1>
         </div>
@@ -16,13 +16,13 @@
                 {{ if isset .Params "images" }}
                 {{ $image := .Params.Images}}
                 {{ range $k, $i := $image }}
-                <img src="{{ $i }}" loading="lazy" class="img" alt="featured image {{ $k }}" width="100px"
-                height="100px">
+                <img src="{{ $i }}" loading="lazy" class="rounded img-fluid"
+                    alt="featured image {{ $k }}" width="125px" height="125px">
                 {{ end }}
                 {{ end }}
             </div>
-            <div class="row-lg mt-3">
-                <a class="btn btn btn-outline-secondary btn-sm px-4 mx-20 justify-content-md-center" href="{{ .RelPermalink }}"
+            <div class="d-flex justify-content-center mx-auto">
+                <a class="btn btn btn-outline-secondary btn-sm px-4 mx-20 my-4" role="button" href="{{ .RelPermalink }}"
                     role="button">Sabe mais</a>
             </div>
         </div>
