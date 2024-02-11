@@ -56,7 +56,9 @@ blockquote {
     height: 4em;
 }
 
-a /*.feather*/
+a
+
+/*.feather*/
     {
     $twitter-blue: #55acee;
     $github-black: #000;
@@ -97,4 +99,14 @@ body {
     outline-color: purple;
     outline-width: 10px;
     box-shadow: 0 0 0 3.2rem rgba(27, 30, 28, 0.422);
+}
+
+
+.container.colorfull,
+.container-sm.colorfull {
+    background:
+        radial-gradient(ellipse at 100% 0%, rgba(199, 30, 35, 0.79) 0%, 27.08%, rgba(36, 33, 41, 0) 68.75%) 0% 0% / 100% 100% no-repeat no-repeat,
+        /* Red Background */
+        radial-gradient(ellipse at 0% 0%, rgba(107, 16, 204, 0.79) 0%, 27.08%, rgba(36, 33, 41, 0) 68.75%) 0% 0% / 100% 100% no-repeat no-repeat;
+    /* Purple Background */
 }

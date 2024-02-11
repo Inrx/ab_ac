@@ -8,10 +8,10 @@ expiryDate: 2024-04-31
 keywords: ["palmela beat", "palmela", "música", "techno"]
 layout: palmela-beat
 images: 
-  - "/images/square-AJITAR-PalmelaBeat_195.JPG"
-  - "/images/square-AJITAR-PalmelaBeat_195.JPG"
-  - "/images/square-AJITAR-PalmelaBeat_195.JPG"
-  - "/images/square-AJITAR-PalmelaBeat_195.JPG"
+  - "/images/PalmelaBeat2017-1.jpeg"
+  - "/images/PalmelaBeat2017-2.jpeg"
+  - "/images/PalmelaBeat2018-1.jpeg"
+  - "/images/PalmelaBeat2018-2.jpeg"
 tags: ["events"]
 location: "Parque Venâncio Ribeiro da Costa"
 eventDate: "23 Mar 2024"
