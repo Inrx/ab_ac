@@ -2,7 +2,7 @@ backend:
   name: github
   repo: inrx/acidobase
   branch: main # Branch to update (optional; defaults to master)
-  base_url: https://www.acidobase.org
+  base_url: https://acidobase.org
   auth_endpoint: /api/auth
 media_folder: "assets/images"
 public_folder: /images
