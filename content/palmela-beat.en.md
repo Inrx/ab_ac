@@ -30,7 +30,7 @@ description: "Palmela Beat 2024: 18 years of history, a daytime experience at Pa
 
 ### @
 
-[Amphitheater of Venâncio Ribeiro da Costa Park](https://maps.app.goo.gl/dwMcLqkhZEHuAcg16)
+[Venâncio Ribeiro da Costa Park](https://maps.app.goo.gl/dwMcLqkhZEHuAcg16)
 
 {{< /column >}} {{< column >}}
 ### By Night
