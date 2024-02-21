@@ -16,16 +16,16 @@ tags: ["events"]
 location: "Parque Venâncio Ribeiro da Costa"
 eventDate: "23 Mar 2024"
 schedule: "16h - Late"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing elit pellentesque habitant morbi tristique senectus et."
+description: "Palmela Beat 2024: 18 years of history, a daytime experience at Parque Venâncio Ribeiro da Costa, and an intense night at VILLA, under the ÁcidoBase's auspices, promising to be the benchmark in electronic music."
 ---
 
 {{< columns count=2 >}} {{< column >}}
 
 ### By Day
 ---
+##### Wooden b2b Tiago (MSK1)
+##### [Dubuddah](https://soundcloud.com/dubuddha)
 ##### [Alph](https://www.mixcloud.com/ruipedroalferespedro/)
-##### [Selecta Alice](https://soundcloud.com/selecta-alice)
-##### To be disclosured
 <br>
 
 ### @
@@ -45,5 +45,5 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 [VILLA Parque](https://maps.app.goo.gl/nK2AqJphFurYeuYH6)
 {{< /column >}} {{< /columns >}}
 
-
+{{< tickets >}} 
 
