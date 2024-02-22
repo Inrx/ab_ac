@@ -57,8 +57,8 @@ description: "Palmela Beat 2024: 18 anos de história, uma experiência diurna n
 
 ---
 
-##### Early Bird 12,5€
-##### Later Bird 15,0€
+##### Early Bird 11,50€
+##### Later Bird 14,00€
 <br>
 
 

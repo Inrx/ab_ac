@@ -19,31 +19,49 @@ schedule: "16h - Late"
 description: "Palmela Beat 2024: 18 years of history, a daytime experience at Parque Venâncio Ribeiro da Costa, and an intense night at VILLA, under the ÁcidoBase's auspices, promising to be the benchmark in electronic music."
 ---
 
+
 {{< columns count=2 >}} {{< column >}}
 
-### By Day
+
+### BY DAY
+
+16H00 - 22H00
+
+@ [Venâncio Ribeiro da Costa Park](https://maps.app.goo.gl/dwMcLqkhZEHuAcg16)
+
 ---
 ##### Wooden b2b Tiago (MSK1)
 ##### [Dubuddah](https://soundcloud.com/dubuddha)
 ##### [Alph](https://www.mixcloud.com/ruipedroalferespedro/)
+
+---
+
+##### FREE ACCESS
 <br>
 
-### @
-
-[Venâncio Ribeiro da Costa Park](https://maps.app.goo.gl/dwMcLqkhZEHuAcg16)
-
 {{< /column >}} {{< column >}}
+
 ### By Night
+
+22H00 - Late
+
+@ [VILLA Parque](https://maps.app.goo.gl/nK2AqJphFurYeuYH6)
+
 ---
 ##### [MaryCroft](https://soundcloud.com/marycroft-macedo)
 ##### [Carajana](https://soundcloud.com/cajaranamusic)
 ##### [DeimOn](https://soundcloud.com/dj-deimon)
+
+---
+
+##### Early Bird 11,50€
+##### Later Bird 14,00€
 <br>
 
-### @ 
 
-[VILLA Parque](https://maps.app.goo.gl/nK2AqJphFurYeuYH6)
-{{< /column >}} {{< /columns >}}
+{{< /column >}} 
 
-{{< tickets >}} 
+{{< /columns >}}
 
+
+{{< tickets >}}
