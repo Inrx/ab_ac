@@ -5,7 +5,7 @@ theme= "hugo-bootstrap-theme"
 themesdir = 'node_modules/@filipecarneiro'
 
 
-homepage = "acidobase.org"
+homepage = "https://acidobase.org/"
 
 tags = ["acidobase", "palmela", "associacao cultural", "acido", "base"]
 features = ["evento","musica","cidadania","ambiente"]

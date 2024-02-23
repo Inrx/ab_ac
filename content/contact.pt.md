@@ -7,6 +7,6 @@ menu:
 ---
 
 
-### Contacta-nos
+# Contacta-nos
 Envia-nos um email para [hello@acidobase.org](mailto:hello@acidobase.org) ou preenche este formulário para entrares em contacto connosco!
 {{< contact-form2 >}}

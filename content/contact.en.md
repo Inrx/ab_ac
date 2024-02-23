@@ -7,6 +7,6 @@ menu:
 ---
 
 
-### Get in touch
+# Get in touch
 Drop us an email to [hello@acidobase.org](mailto:hello@acidobase.org) or fill this form and talk to us!
 {{< contact-form2 >}}

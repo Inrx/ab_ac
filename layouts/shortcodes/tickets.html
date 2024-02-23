@@ -1,0 +1,8 @@
+{{ $link := .Get "ticketLink" | default ""}}
+
+<div class="row justify-content-md-center">
+    <div class="d-grid gap-2 col-6 mx-auto">
+        <a class="btn btn-bd-primary btn-lg px-4 mx-20 justify-content-md-center disabled" role="button" href="{{ $link }}" role="button">{{T
+            "tickets" }}</a>
+    </div>
+</div>
