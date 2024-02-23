@@ -16,7 +16,7 @@ tags: ["events"]
 location: "Parque Venâncio Ribeiro da Costa"
 eventDate: "23 Mar 2024"
 schedule: "16h - Late"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing elit pellentesque habitant morbi tristique senectus et."
+description: "Palmela Beat 2024: 18 anos de história, uma experiência diurna no Parque Venâncio Ribeiro da Costa e uma noite intensa no VILLA, sob a égide da ÁcidoBase, prometendo ser a referência da música eletrónica."
 ---
 
 
@@ -33,8 +33,8 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 @ [Parque Venâncio Ribeiro da Costa](https://maps.app.goo.gl/dwMcLqkhZEHuAcg16)
 
 ---
-##### A Anunciar
-##### A Anunciar
+##### Wooden b2b Tiago (MSK1)
+##### [Dubuddah](https://soundcloud.com/dubuddha)
 ##### [Alph](https://www.mixcloud.com/ruipedroalferespedro/)
 
 ---
@@ -51,14 +51,14 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 @ [VILLA Parque](https://maps.app.goo.gl/nK2AqJphFurYeuYH6)
 
 ---
-##### [DeimOn](https://soundcloud.com/dj-deimon)
-##### [Carajana](https://soundcloud.com/cajaranamusic)
 ##### [MaryCroft](https://soundcloud.com/marycroft-macedo)
+##### [Carajana](https://soundcloud.com/cajaranamusic)
+##### [DeimOn](https://soundcloud.com/dj-deimon)
 
 ---
 
-##### Early Bird 12,5€
-##### Later Bird 15,0€
+##### Early Bird 11,50€
+##### Later Bird 14,00€
 <br>
 
 

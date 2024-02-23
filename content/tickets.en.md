@@ -1,6 +1,6 @@
 ---
 title: "Tickets"
-draft: false
+draft: true
 menu:
   main:
     weight: 20
