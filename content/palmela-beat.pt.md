@@ -67,4 +67,4 @@ description: "Palmela Beat 2024: 18 anos de história, uma experiência diurna n
 {{< /columns >}}
 
 
-{{< tickets >}}
+{{< tickets ticketLink="https://www.seetickets.com/pt/event/palmela-beat/villa-parque/2954367" >}}
