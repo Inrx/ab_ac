@@ -1,11 +1,7 @@
 ---
 title: "Bilhetes"
-draft: true
+layout: tickets-store
 menu:
   main:
     weight: 20
 ---
-
-
-
-# Em breve

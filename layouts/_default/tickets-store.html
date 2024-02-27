@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="{{ .Language.LanguageCode | default site.Language.LanguageCode }}">
+{{ partial "head/head.html" . }}
+{{ if eq .Kind "home" -}}
+    {{ .Scratch.Set "class" "home" -}}
+{{ else if eq .Kind "404" -}}
+    {{ .Scratch.Set "class" "error404" -}}
+{{ else if eq .Kind "page" -}}
+    {{ .Scratch.Set "class" .Type -}}
+    {{ .Scratch.Add "class" " single" -}}
+{{ else -}}
+    {{ .Scratch.Set "class" .Type -}}
+    {{ .Scratch.Add "class" " list" -}}
+{{ end -}}
+<body class="{{ .Scratch.Get `class` }} d-flex flex-column min-vh-100" style="background-color: black;">
+    {{- partial "header/header.html" . -}}
+    <div id="content">
+        {{ if and (.Site.Params.options.breadCrumb) (ne .Kind "home") -}}
+            {{- partial "header/breadcrumb.html" . -}}
+        {{ end }}
+        <div class="d-flex flex-column mt-n1 mb-n1">
+            <iframe src="https://acidobase.seetickets.com/event/palmela-beat/villa-parque/2954367" height="1690px"></iframe>
+        </div>        
+        {{- block "main" . }}{{- end }}
+    </div>
+</body>
+</html>
