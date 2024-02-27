@@ -52,7 +52,7 @@ description: "Palmela Beat 2024: 18 anos de história, uma experiência diurna n
 
 ---
 ##### [MaryCroft](https://soundcloud.com/marycroft-macedo)
-##### [Carajana](https://soundcloud.com/cajaranamusic)
+##### [Cajarana](https://soundcloud.com/cajaranamusic)
 ##### [DeimOn](https://soundcloud.com/dj-deimon)
 
 ---
