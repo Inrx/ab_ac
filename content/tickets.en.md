@@ -1,11 +1,7 @@
 ---
 title: "Tickets"
-draft: true
+layout: tickets-store
 menu:
   main:
     weight: 20
 ---
-
-
-
-# Coming soon
