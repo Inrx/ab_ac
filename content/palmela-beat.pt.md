@@ -14,7 +14,7 @@ images:
   - "/images/PalmelaBeat2018-2.jpeg"
 tags: ["events"]
 location: "Parque Venâncio Ribeiro da Costa"
-eventDate: "23 Mar 2024"
+eventDate: "23.03.2024"
 schedule: "16h - Late"
 description: "Palmela Beat 2024: 18 anos de história, uma experiência diurna no Parque Venâncio Ribeiro da Costa e uma noite intensa no VILLA, sob a égide da ÁcidoBase, prometendo ser a referência da música eletrónica."
 ---
