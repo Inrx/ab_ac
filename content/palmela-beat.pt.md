@@ -34,7 +34,7 @@ description: "Palmela Beat 2024: 18 anos de história, uma experiência diurna n
 
 ---
 ##### Wooden b2b Tiago (MSK1)
-##### [Dubuddah](https://soundcloud.com/dubuddha)
+##### [Dubuddha](https://soundcloud.com/dubuddha)
 ##### [Alph](https://www.mixcloud.com/ruipedroalferespedro/)
 
 ---
