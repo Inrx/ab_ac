@@ -64,4 +64,4 @@ description: "Palmela Beat 2024: 18 years of history, a daytime experience at Pa
 {{< /columns >}}
 
 
-{{< tickets ticketLink="/en/tickets" >}}
+{{< tickets ticketLink="https://acidobase.seetickets.com/" >}}

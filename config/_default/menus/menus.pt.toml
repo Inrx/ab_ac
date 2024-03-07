@@ -4,6 +4,12 @@ url = "about"
 weight = 10
 title = "Mais sobre a Associação"
 
+[[main]]
+name = "Bilhetes"
+url = "https://acidobase.seetickets.com/"
+weight = 20
+title = "Comprar Bilhetes"
+
 #[[main]]
 #identifier = "blog"
 #name = "Notícias"

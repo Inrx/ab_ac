@@ -5,6 +5,12 @@ url = "about"
 weight = 20
 title = "Know More"
 
+[[main]]
+name = "Tickets"
+url = "https://acidobase.seetickets.com/"
+weight = 20
+title = "Buy Tickets"
+
 [[social]]
   name = "Instagram"
   pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-instagram'><use href='/images/feather/feather-sprite.svg#instagram'/></svg>"
