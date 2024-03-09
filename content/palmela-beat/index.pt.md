@@ -108,7 +108,7 @@ O seu estilo é a fusão das suas influências: psytechno e dark progressive - u
 
 {{< column >}}
 
-### Carajana
+### Cajarana
 
 Cajarana é o mais recente projeto musical de André Sousa. Surgiu da colaboração GRUB, uma fusão dark prog com Fernando Rodrigues (Psyjar), que lançou pela Maia Brasil Records, Glitchy Tonic Records e Zenon Records.
 
