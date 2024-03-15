@@ -1,0 +1,11 @@
+{{ $poster := .Page.Params.poster }}
+
+<div class="row justify-content-md-center">
+    <div class="col-sm-4">
+        <img class="img mx-auto d-block" src="{{ $poster | relURL }}" loading="lazy" height="400rem" width="auto"
+            alt="Cartaz Palmela Beat 2024">
+    </div>
+    <div class="col-lg pb-5">
+        {{ .Inner | markdownify }}
+    </div>
+</div>

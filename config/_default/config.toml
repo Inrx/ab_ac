@@ -49,3 +49,6 @@ googleAnalytics = "G-HQPH6MBHQ0"
   [[module.mounts]]
     source = "static"
     target = "static"
+
+[build]
+  writeStats = true

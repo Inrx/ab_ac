@@ -3,22 +3,13 @@
   <div class="col-lg-10 mx-auto text-center my-5 pt-3">
     <div class="container-xxl">
       <h1 class="palmela-beat my-4 pb-5">PALMELA BEAT</h1>
-      <img class="img-fluid mx-auto mb-3 " src="{{ `images/AJITAR-PalmelaBeat_195.JPG` | relURL }}" loading="lazy" width="100%"
+      <img class="img-fluid mx-auto mb-3 " src="{{ `images/AJITAR-PalmelaBeat_195.JPG` | relURL }}" width="100%"
         height="auto" alt="Palmela Beat 2017">
       <h2 class="palmela-beat my-3">{{ .Params.eventDate }}</h2>
     </div>
   </div>
   </div>
   <div class="container-xxl py-5">
-    <div class="row justify-content-md-center">
-      <div class="col-sm-4">
-        <img class="img mx-auto d-block" src="{{ `images/PalmelaBeat 2024.png` | relURL }}" loading="lazy"
-          height="400rem" width="auto" alt="Cartaz Palmela Beat 2024">
-      </div>
-      <div class="col-lg">
-        {{ .Content }}
-      </div>
-    </div>
+    {{ .Content }}
   </div>
-
   {{ end }}

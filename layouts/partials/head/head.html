@@ -7,3 +7,16 @@
     {{ block "head/seo" . }}{{ partial "head/seo.html" . }}{{ end }}
     {{ block "head/favicons" . }}{{ partial "head/favicons.html" . }}{{ end }}
 </head>
+
+{{ $css := resources.Get "sass/main.scss" | toCSS  | resources.PostCSS }} 
+{{ if hugo.IsProduction }} 
+    {{ $css = $css | minify | fingerprint | resources.PostProcess }} 
+{{ end }}
+
+<link
+  rel="stylesheet"
+  href="{{ $css.RelPermalink }}"
+  {{ if hugo.IsProduction -}} 
+    integrity="{{ $css.Data.Integrity }}"
+  {{- end }}
+/>

@@ -12,16 +12,15 @@ images:
   - "/images/PalmelaBeat2017-2.jpeg"
   - "/images/PalmelaBeat2018-1.jpeg"
   - "/images/PalmelaBeat2018-2.jpeg"
+poster: "images/PalmelaBeat 2024.png"
 tags: ["events"]
 location: "Parque Venâncio Ribeiro da Costa"
 eventDate: "23.03.2024"
 schedule: "16h - Late"
-description: "Palmela Beat 2024: 18 anos de história, uma experiência diurna no Parque Venâncio Ribeiro da Costa e uma noite intensa no VILLA, sob a égide da ÁcidoBase, prometendo ser a referência da música eletrónica."
+description: "Palmela Beat 2024: 18 years of history, a daytime experience at Parque Venâncio Ribeiro da Costa, and an intense night at VILLA, under the ÁcidoBase's auspices, promising to be the benchmark in electronic music."
 ---
 
-
-
-
+{{< line-up  >}}
 
 {{< columns count=2 >}} {{< column >}}
 
@@ -30,7 +29,7 @@ description: "Palmela Beat 2024: 18 anos de história, uma experiência diurna n
 
 16H00 - 22H00
 
-@ [Parque Venâncio Ribeiro da Costa](https://maps.app.goo.gl/dwMcLqkhZEHuAcg16)
+@ [Venâncio Ribeiro da Costa Park](https://maps.app.goo.gl/dwMcLqkhZEHuAcg16)
 
 ---
 ##### Wooden b2b Tiago (MSK1)
@@ -39,7 +38,7 @@ description: "Palmela Beat 2024: 18 anos de história, uma experiência diurna n
 
 ---
 
-##### LIVRE ACESSO
+##### FREE ACCESS
 <br>
 
 {{< /column >}} {{< column >}}
@@ -68,3 +67,8 @@ description: "Palmela Beat 2024: 18 anos de história, uma experiência diurna n
 
 
 {{< tickets ticketLink="https://acidobase.seetickets.com/" >}}
+
+{{</ line-up >}}
+
+---
+

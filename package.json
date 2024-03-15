@@ -15,6 +15,10 @@
     "wrangler": "^3.25.0"
   },
   "dependencies": {
-    "@staticcms/core": "^4.1.0"
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "@staticcms/core": "^4.1.0",
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.35",
+    "postcss-cli": "^11.0.0"
   }
 }
