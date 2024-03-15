@@ -170,28 +170,7 @@ Não só a dar música ao vivo, mas Alph também tem um podcast semanal na Elekt
 {{< columns count=2 >}}
 {{< column >}}
 
-{{< image src="Alph-square.jpeg" alt="Alph" >}}
-
-{{</ column >}}
-
-{{< column >}}
-
-### Dubuddha
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet volutpat consequat mauris nunc congue nisi vitae. 
-
-Ipsum nunc aliquet bibendum enim facilisis gravida neque. Condimentum id venenatis a condimentum vitae sapien. Rhoncus dolor purus non enim praesent.
-
-{{</ column >}}
-
-{{</ columns >}}
-
----
-
-{{< columns count=2 >}}
-{{< column >}}
-
-{{< image src="Alph-square.jpeg" alt="Alph" >}}
+{{< image src="wooden.jpeg" alt="Alph" >}}
 
 {{</ column >}}
 
@@ -199,9 +178,7 @@ Ipsum nunc aliquet bibendum enim facilisis gravida neque. Condimentum id venenat
 
 ### Wooden b2b Tiago (MSK1)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet volutpat consequat mauris nunc congue nisi vitae. 
-
-Ipsum nunc aliquet bibendum enim facilisis gravida neque. Condimentum id venenatis a condimentum vitae sapien. Rhoncus dolor purus non enim praesent.
+A música aproxima e une, aquilo que provavelmente de outro modo estaria para sempre separado. Tiago e Wooden acreditam muito nisto. Talvez o caminho deles nunca se tivesse cruzado com o de pessoas que hoje em dia fazem parte do colectivo MSK1, se não fosse o gosto que têm em comum pelo cultura que rodeia os discos que tocam.  Limitá-los a um estilo musical nunca foi fácil. A 'fome' sempre foi grande de ouvir mais e melhor música. Passados mais de 10 anos de volta das melodias do mundo, as barreiras linguísticas caíram, os países que estavam longe passaram a estar perto, e a música levou-os a viagens e a amigos que não imaginariam encontrar pelo caminho. E por isso, assumem que a música deve ser partilhada. Sempre.
 
 {{</ column >}}
 
