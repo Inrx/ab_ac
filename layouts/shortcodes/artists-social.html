@@ -1,0 +1,46 @@
+{{ $artist := .Get "artist" }}
+
+{{ if .Get "youtube" }}
+{{ $youtube := .Get "youtube" }}
+
+<a href="{{$youtube}}" title='{{$artist}} on Youtube' aria-label='{{$artist}} on Youtube' class="px-3 mx-2">
+    <svg xmlns='http://www.w3.org/2000/svg' class='feather feather-cloud feather-med'>
+        <use href='/images/feather/feather-sprite.svg#youtube' />
+    </svg>
+</a>
+{{ end }}
+
+{{ if .Get "soundcloud" }}
+{{ $soundcloud := .Get "soundcloud" }}
+
+<a href="https://soundcloud.com/{{$soundcloud}}" title="{{$artist}} on SoundCloud" aria-label='SoundCloud' class="px-3 mx-2">
+    <svg xmlns='http://www.w3.org/2000/svg' class='feather feather-cloud feather-med'>
+        <use href='/images/feather/feather-sprite.svg#cloud' />
+    </svg>
+</a>
+{{ end }}
+
+{{ if .Get "instagram" }}
+{{ $instagram := .Get "instagram" }}
+
+<a href="https://www.instagram.com/{{$instagram}}" title="{{$artist}} on Instagram" aria-label='Instagram' class="px-3 mx-2">
+    <svg xmlns='http://www.w3.org/2000/svg' class='feather feather-instagram feather-med'>
+        <use href='/images/feather/feather-sprite.svg#instagram' />
+    </svg>
+</a>
+{{ end }}
+
+{{ if .Get "other-music" }}
+{{ $other := .Get "other-music" }}
+
+<a href="{{$other}}" title="{{$artist}}" aria-label='' class="px-3 mx-2">
+    <svg xmlns='http://www.w3.org/2000/svg' class='feather feather-play feather-med'>
+        <use href='/images/feather/feather-sprite.svg#play' />
+    </svg>
+</a>
+{{ end }}
+
+
+
+
+<!-- "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-instagram'><use href='/images/feather/feather-sprite.svg#instagram'/></svg>"-->

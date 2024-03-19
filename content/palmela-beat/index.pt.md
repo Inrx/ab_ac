@@ -93,6 +93,8 @@ MaryCroft, DJ baseada em Lisboa. Com um ouvido apurado desde tenra idade e forma
 
 O seu estilo é a fusão das suas influências: psytechno e dark progressive - uma música psicadélica que integra psytrance, progressive e techno. Nos seus sets, descobrem-se nuances de melodias e harmonias sob o manto de ritmos hipnóticos.
 
+{{< artists-social artist="MaryCroft" instagram="marycroft_macedo" soundcloud="marycroft-macedo"  >}}
+
 {{</ column >}}
 
 {{</ columns >}}
@@ -113,6 +115,8 @@ O seu estilo é a fusão das suas influências: psytechno e dark progressive - u
 Cajarana é o mais recente projeto musical de André Sousa. Surgiu da colaboração GRUB, uma fusão dark prog com Fernando Rodrigues (Psyjar), que lançou pela Maia Brasil Records, Glitchy Tonic Records e Zenon Records.
 
 Agora, o produtor e DJ português está a aventurar-se a solo, explorando o psy techno envolvente que flerta com o trance. Cajarana conta uma história que emerge das entranhas da besta, onde sabores psicadélicos se misturam com sons guturais.
+
+{{< artists-social artist="Cajarana" instagram="andre_bugas_cajarana" soundcloud="cajaranamusic"  >}}
 
 {{</ column >}}
 
@@ -136,6 +140,8 @@ Sérgio, apaixonado por música eletrónica desde 2001, é o cérebro por trás 
 Hoje, DeimON produz sons dark/underground, uma fusão entre o moderno e o clássico, inspirado por grandes influências como Prodigy, Chemical Brothers, e, na cena contemporânea, Maceo Plex, Marco Carola e outros.  
 
 Segue projetos como Diynamic Music e Fuse, alimentando o futuro da eletrónica em Portugal com os inovadores beats do DeimON! 
+
+{{< artists-social artist="DeimOn" youtube="https://www.youtube.com/watch?v=KbbFusTTWYg" instagram="sergi0pereira" >}}
 
 
 {{</ column >}}
@@ -161,6 +167,29 @@ Alph é atualmente DJ residente no incrível rooftop "Culto Panorâmico" em Palm
 
 Não só a dar música ao vivo, mas Alph também tem um podcast semanal na Elektrona Rádio em Buenos Aires, Argentina. Fiquem atentos aos seus sons!
 
+{{< artists-social artist="Alph" instagram="rui_djalph" other-music="https://www.mixcloud.com/ruipedroalferespedro/" >}}
+
+{{</ column >}}
+
+{{</ columns >}}
+
+---
+
+{{< columns count=2 >}}
+{{< column >}}
+
+{{< image src="dubbudha.jpg" alt="Dubbudha" >}}
+
+{{</ column >}}
+
+{{< column >}}
+
+### Dubbudha
+
+Dubbudha é um artista cuja música eclética desafia categorizações convencionais. Com uma vasta gama de influências, Dubbudha cria uma sonoridade única que transcende fronteiras musicais. O seu estilo é conhecido por fazer as pessoas mexerem e dançarem, mergulhando-as num universo sonoro inovador e cativante. Com uma abordagem criativa e arrojada, Dubbudha continua a surpreender e encantar os ouvintes com sua música vibrante e pulsante. 
+
+{{< artists-social artist="Dubbudha" soundcloud="dubuddha"  >}}
+
 {{</ column >}}
 
 {{</ columns >}}
@@ -178,7 +207,10 @@ Não só a dar música ao vivo, mas Alph também tem um podcast semanal na Elekt
 
 ### Wooden b2b Tiago (MSK1)
 
-A música aproxima e une, aquilo que provavelmente de outro modo estaria para sempre separado. Tiago e Wooden acreditam muito nisto. Talvez o caminho deles nunca se tivesse cruzado com o de pessoas que hoje em dia fazem parte do colectivo MSK1, se não fosse o gosto que têm em comum pelo cultura que rodeia os discos que tocam.  Limitá-los a um estilo musical nunca foi fácil. A 'fome' sempre foi grande de ouvir mais e melhor música. Passados mais de 10 anos de volta das melodias do mundo, as barreiras linguísticas caíram, os países que estavam longe passaram a estar perto, e a música levou-os a viagens e a amigos que não imaginariam encontrar pelo caminho. E por isso, assumem que a música deve ser partilhada. Sempre.
+A música aproxima e une, aquilo que provavelmente de outro modo estaria para sempre separado. Tiago e Wooden acreditam muito nisto. Talvez o caminho deles nunca se tivesse cruzado com o de pessoas que hoje em dia fazem parte do colectivo MSK1, se não fosse o gosto que têm em comum pelo cultura que rodeia os discos que tocam.  Limitá-los a um estilo musical nunca foi fácil. A 'fome' sempre foi grande de ouvir mais e melhor música. Passados mais de 10 anos de volta das melodias do mundo, as barreiras linguísticas caíram, os países que estavam longe passaram a estar perto, e a música levou-os a viagens e a amigos que não imaginariam encontrar pelo caminho. E por isso, assumem que a música deve ser partilhada.Sempre.
+
+
+{{< artists-social artist="Wooden" instagram="w0oden" soundcloud="www.soundcloud.com"  >}}
 
 {{</ column >}}
 
